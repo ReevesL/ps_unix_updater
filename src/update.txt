@@ -1,0 +1,2 @@
+echo -e myPassword | sudo -S apt update
+sudo -S apt upgrade -y
