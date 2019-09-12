@@ -3,7 +3,6 @@
 # basic powershell script to drive updating *nix consolues via putty's plink command line
 #
 $serverList = @()
-$serverList += "Unifi2"
 $serverList += "Plex"
 $serverList += "Grafana"
 $serverList += "Mr Fix-it"
